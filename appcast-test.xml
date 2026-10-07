@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><!-- scripts/macos/publish-update.sh が生成する。手で編集しないこと。 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Verdant</title>
+    <item>
+      <title>Verdant 1.0.91</title>
+      <pubDate>Wed, 07 Oct 2026 06:37:27 +0000</pubDate>
+      <sparkle:version>9001</sparkle:version>
+      <sparkle:shortVersionString>1.0.91</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h2>Verdant 1.0.91</h2>
+<ul>
+<li>メール本文の meta refresh で、クリックしていないのにリンクを開く処理が走らないようにする</li>
+<li>受信したメールで落ちる不具合と、IMAP で別フォルダのメールを読み書きする不具合を直す</li>
+<li>macOS 14 の仮想マシンで見つかった設定画面の不具合と、DB ファイルの権限を直す</li>
+<li>転送の見出しのテストが実行環境のタイムゾーンに左右されないようにする</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/haku-code/Verdant-releases/releases/assets/617824443" type="application/octet-stream" length="12683595" sparkle:edSignature="F5RK75+R/47FW44HgPxlb07tfTopvyY4FLIyrxLpBfGMMaG0ScSOxfMPVVsfzLk/v+nv4OGpC3z24bgJkaXbCg=="></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: sECjJfuh72dsRWrmAhC0bZ/HGA5DFkom1KerHzpdoIv0JTOCjOVKKSMRUFxZeLPXw57R+686Hvro4DOWoqOfDg==
+length: 1694
+-->
