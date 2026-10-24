@@ -4,28 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Verdant</title>
     <item>
-      <title>Verdant 1.2.0</title>
-      <pubDate>Thu, 22 Oct 2026 12:37:44 +0000</pubDate>
-      <sparkle:version>83</sparkle:version>
-      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <title>Verdant 1.3.0</title>
+      <pubDate>Sat, 24 Oct 2026 23:23:36 +0000</pubDate>
+      <sparkle:version>85</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>Verdant 1.2.0</h2>
+<h2>Verdant 1.3.0</h2>
 <ul>
-<li>新着メールを数秒で受け取れるようにしました(IMAP の受信トレイを IDLE で見張り、一覧・通知・お問い合わせボードにすぐ出します)</li>
-<li>受信の確認をアカウントごとに並行して行い、繋がらないサーバーがあってもほかのアカウントが遅れないようにしました</li>
-<li>書きかけの宛先があると Gmail に下書きを保存できなかった不具合を直しました(正しくない宛先は外して保存し、そのことを表示します)</li>
-<li>Gmail に再ログインしたら、フォルダと一覧をすぐ取り直すようにしました</li>
-<li>お問い合わせボードで見張るアカウントとフォルダ(迷惑メール・振り分け先・Gmail のラベル)を、設定 &gt; お問い合わせ で選べるようにしました</li>
-<li>返信の定型文を追加しました(設定 &gt; 定型文 で作り、作成ウィンドウの「定型文」から入れます。{名前}・{自分の名前} を埋めます)</li>
-<li>一部のサーバー(ロリポップなど)で、毎回すべてのメールを取り直していたのを直しました</li>
-<li>設定画面のタブの幅をそろえました</li>
+<li>お問い合わせボードに自分で作れるルールと「ボードに追加」を足す</li>
 </ul>
       ]]></description>
-      <enclosure url="https://github.com/haku-code/Verdant-releases/releases/download/v1.2.0/Verdant-1.2.0-universal.dmg" type="application/octet-stream" length="11867952" sparkle:edSignature="I45fRvhIggDjrDllgiHdyZZXTzKOepliwK4uIggfbtpur3Oiwj0vR0WZElic/FRy9SRZTbyYWTuiCCzILZ8pCA=="></enclosure>
+      <enclosure url="https://github.com/haku-code/Verdant-releases/releases/download/v1.3.0/Verdant-1.3.0-universal.dmg" type="application/octet-stream" length="12977227" sparkle:edSignature="OmnGNGxVSVtqy/23Tmh12/pUZufK18f3fGnSxmWbT5KJ+UwSF24wX6opd7B8NYerqi9FIC0PTafMlU1Oz9jXCg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: UF9wBXKjTouBQ8j6rugsrKwP9CxhsaH1iNlL9LDn5FK6efKPrVu5ZUNUwIkxXfkU8N07QpF1jG6CMeAcGWzbBg==
-length: 2458
+edSignature: rcOvZS7IU9k4HZt7V8b3AEY3kwP2INZqnvkM/8Xke5/gf9xNw2AfhIG0ds2wQywOmLUJmu2MXsfxlfLYrh65DQ==
+length: 1312
 -->
