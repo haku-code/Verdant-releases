@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Verdant</title>
     <item>
-      <title>Verdant 1.3.0</title>
-      <pubDate>Sat, 24 Oct 2026 23:23:36 +0000</pubDate>
-      <sparkle:version>85</sparkle:version>
-      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <title>Verdant 1.3.1</title>
+      <pubDate>Sun, 25 Oct 2026 04:18:50 +0000</pubDate>
+      <sparkle:version>87</sparkle:version>
+      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>Verdant 1.3.0</h2>
+<h2>Verdant 1.3.1</h2>
 <ul>
-<li>お問い合わせボードに自分で作れるルールと「ボードに追加」を足す</li>
+<li>アカウントと決まったフォルダの順番を変えられるようにする</li>
 </ul>
       ]]></description>
-      <enclosure url="https://github.com/haku-code/Verdant-releases/releases/download/v1.3.0/Verdant-1.3.0-universal.dmg" type="application/octet-stream" length="12977227" sparkle:edSignature="OmnGNGxVSVtqy/23Tmh12/pUZufK18f3fGnSxmWbT5KJ+UwSF24wX6opd7B8NYerqi9FIC0PTafMlU1Oz9jXCg=="></enclosure>
+      <enclosure url="https://github.com/haku-code/Verdant-releases/releases/download/v1.3.1/Verdant-1.3.1-universal.dmg" type="application/octet-stream" length="12999305" sparkle:edSignature="ZAxHx1GU2WZ+wZMQxu55ehrDIE2boIOB2x0GQjQFPUIzAYUCEpoZlMLbSZalIXCZsn0IDDDZlreh7Q3NdF3ADA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: rcOvZS7IU9k4HZt7V8b3AEY3kwP2INZqnvkM/8Xke5/gf9xNw2AfhIG0ds2wQywOmLUJmu2MXsfxlfLYrh65DQ==
-length: 1312
+edSignature: p88S2m10xCoBtfpodt1jBDDw/IXwYfMFd/T5SrscqhDUPSp55QxeaeuYSqOx2MoOWkx/2q+L6CZbhmmrv7tJAQ==
+length: 1303
 -->
